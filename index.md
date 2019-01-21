@@ -1,6 +1,2 @@
----
-title: This is first page
-layout: post
----
-
+# Max
 Hello World!
