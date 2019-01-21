@@ -2,8 +2,6 @@
 title: What news from of the ET System Programming Language?
 ---
 
-<h1>What news from of the ET System Programming Language?</h1>
-
 We are still working to improve this project.
 
 Keep in mind that this works with all the love and no hurry done.
