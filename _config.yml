@@ -1,3 +1,10 @@
+permalink: /:categories/:year/:month/:day/:title
 theme: jekyll-theme-cayman
 title: Max Base
 description: This is a place to share the comment, think and work.
+author :
+  name : Max Base
+  email : MaxBaseCode@Gmail.Com
+  github : BaseMax
+# https://help.github.com/articles/migrating-your-pages-site-from-maruku
+markdown: kramdown
