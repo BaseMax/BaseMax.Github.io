@@ -13,3 +13,4 @@ What's new:
 - Rewriting the analyst algorithm.
 - Deleted the `;` character from the end of all the statements of the code. (for the second time)
 
+We executed many tests on the **x86_64**, **i386** architectures.
