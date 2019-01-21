@@ -6,7 +6,7 @@ title: About Me
 
 I'm a compiler engineer, full-stack programmer in the world like others.
 
-## Skils
+## Skills
   - Compiler
   - Assembly
   - C
