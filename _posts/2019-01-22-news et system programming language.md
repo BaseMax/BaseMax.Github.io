@@ -10,4 +10,5 @@ happened to occur the new changes.
 What's new:
 - Again check and analyze the grammar structure.
 - Rewriting the analyst algorithm.
-- Deleted the `;` character from the end of all the statements of the code.
+- Deleted the `;` character from the end of all the statements of the code. (for the second time)
+
