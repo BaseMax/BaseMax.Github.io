@@ -8,6 +8,7 @@ We are still working to improve this project.
 Keep in mind that this works with all the love and no hurry done.
 
 happened to occur the new changes.
+
 What's new:
 - Again check and analyze the grammar structure.
 - Rewriting the analyst algorithm.
