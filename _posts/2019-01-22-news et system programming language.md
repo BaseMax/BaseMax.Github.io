@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What news from of the ET System Programming Language?
 ---
 
