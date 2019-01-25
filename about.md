@@ -67,7 +67,7 @@ function password()
   const charStart=33;
   const CharDone=125;
   let passwordIndex=0;
-  for(int index=charStart;index<=CharDone;index++)
+  for(let index=charStart;index<=CharDone;index++)
   {
     // passwordIndex=index-charStart;
     if(! password[passwordIndex])
