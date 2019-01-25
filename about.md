@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tagline: About Max Base
+tagline: Max Base
 ---
 
 # Max
