@@ -1,6 +1,6 @@
 ---
 layout: page
-title:About Me
+title: About Me
 tagline: Max Base
 ---
 
@@ -37,7 +37,7 @@ I’m a compiler engineer, low-level developer and full-stack programmer in the 
   </ul>
 </div>
 
-##Works
+## Works
 
 <div class="secret">
   <ul>
