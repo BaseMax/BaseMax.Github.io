@@ -52,6 +52,7 @@ I'm a compiler engineer, low-level developer and full-stack programmer in the wo
 <div class="secret">
 <ul>
   <li>...</li>
+</ul>
 </div>
 
 <script>
