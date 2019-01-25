@@ -127,7 +127,7 @@ if(button && password)
       for(secret of secrets)
       {
         // console.log(secret);
-        let childs = document.body.children;
+        let childs = secret.children;
         for(child of childs)
         {
           // alert( child.textContent);
