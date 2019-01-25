@@ -52,6 +52,14 @@ let button=document.querySelector("#view");
 let password=document.querySelector("#password");
 function parse(input)
 {
+  input=input.replace("<xtag1567891","<b");
+  input=input.replace("<xtag0512054","<u");
+  input=input.replace("<xtag9744051","<i");
+  input=input.replace("<xtag4971234","<a");
+  input=input.replace("<xtag7621642","<li");
+  input=input.replace("<xtag3497823","<ul");
+  input=input.replace("<xtag0508063","<div");
+  input=input.replace("<xtag4619807","<span");
   let result="";
   let maps=passwordMap(password.value);
   console.log(maps);
