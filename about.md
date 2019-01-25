@@ -117,6 +117,22 @@ function passwordMap(pass)
   }
   return maps;
 }
+function checkElement(secret)
+{
+  // console.log(secret);
+  let childs = secret.children;
+  for(child of childs)
+  {
+    // alert( child.textContent);
+    if(child.children.length >0)
+    {
+      checkElement(child.children);
+    }
+    child.textContent=parse(child.textContent);
+  }
+  // secret.innerHTML=parse(secret.innerHTML);
+  secret.style.display="block";
+}
 if(button && password)
 {
   button.onclick=function()
@@ -127,15 +143,7 @@ if(button && password)
       // console.log(secrets);
       for(secret of secrets)
       {
-        // console.log(secret);
-        let childs = secret.children;
-        for(child of childs)
-        {
-          // alert( child.textContent);
-          child.textContent=parse(child.textContent);
-        }
-        // secret.innerHTML=parse(secret.innerHTML);
-        secret.style.display="block";
+        checkElement(secret);
       }
     }
     else
