@@ -58,12 +58,15 @@ function parse(input)
   let index=0;
   for(character of input)
   {
+    console.log("Current : " + character);
     if(maps[character])
     {
+      console.log("Is My Map : " + maps[character]);
       result+=maps[character];
     }
     else
     {
+      console.log("Not My Map!");
       result+=character;
     }
     // else{}
