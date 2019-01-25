@@ -118,9 +118,9 @@ function passwordMap(pass)
 function checkElement(secret)
 {
   // console.log(secret);
-  let childs = secret.children;
-  if(child.children.length >0)
+  if(secret.children.length >0)
   {
+    let childs = secret.children;
     for(child of childs)
     {
       // alert( child.textContent);
