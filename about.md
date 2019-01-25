@@ -79,14 +79,24 @@ function passwordMap()
   }
   return maps;
 }
-if(button && password && password.value!="")
+if(button && password)
 {
-  let secrets=document.querySelectorAll(".secret");
-  // console.log(secrets);
-  for(secret of secrets)
+  button.onclick=function()
   {
-    // console.log(secret);
-    secret.innerHTML=parse(secret.innerHTML);
+    if(password.value!="")
+    {
+      let secrets=document.querySelectorAll(".secret");
+      // console.log(secrets);
+      for(secret of secrets)
+      {
+        // console.log(secret);
+        secret.innerHTML=parse(secret.innerHTML);
+      }
+    }
+    else
+    {
+      alert("Password Field is empty!");
+    }
   }
 }
 else
