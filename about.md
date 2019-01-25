@@ -23,28 +23,28 @@ I'm a compiler engineer, low-level developer and full-stack programmer in the wo
 ## Skills
 
 <div class="secret">
-  - Compiler
-  - Assembly
-  - C
-  - ...
+  <li>Compiler</li>
+  <li>Assembly</li>
+  <li>C</li>
+  <li>...</li>
 </div>
  
 ## Projects
 
 <div class="secret">
-  - ...
+  <li>...</li>
 </div>
 
 ## Works
 
 <div class="secret">
-  - ...
+  <li>...</li>
 </div>
 
 ## Education
 
 <div class="secret">
-  - ...
+  <li>...</li>
 </div>
 
 <script>
@@ -52,14 +52,16 @@ let button=document.querySelector("#view");
 let password=document.querySelector("#password");
 function parse(input)
 {
-  input=input.replace("<xtag1567891","<b");
-  input=input.replace("<xtag0512054","<u");
-  input=input.replace("<xtag9744051","<i");
-  input=input.replace("<xtag4971234","<a");
-  input=input.replace("<xtag7621642","<li");
-  input=input.replace("<xtag3497823","<ul");
-  input=input.replace("<xtag0508063","<div");
-  input=input.replace("<xtag4619807","<span");
+  /*
+  input=input.replace("<xtag1567891([^>]+)>","<b$1>");
+  input=input.replace("<xtag0512054([^>]+)>","<u$1>");
+  input=input.replace("<xtag9744051([^>]+)>","<i$1>");
+  input=input.replace("<xtag4971234([^>]+)>","<a$1>");
+  input=input.replace("<xtag7621642([^>]+)>","<li$1>");
+  input=input.replace("<xtag3497823([^>]+)>","<ul$1>");
+  input=input.replace("<xtag0508063([^>]+)>","<div$1>");
+  input=input.replace("<xtag4619807([^>]+)>","<span$1>");
+  */
   let result="";
   let maps=passwordMap(password.value);
   console.log(maps);
@@ -118,7 +120,13 @@ if(button && password)
       for(secret of secrets)
       {
         // console.log(secret);
-        secret.innerHTML=parse(secret.innerHTML);
+        let childs = document.body.children;
+        for(child of childs)
+        {
+          // alert( child[i].textContent);
+          child[i].textContent=parse(child[i].textContent);
+        }
+        // secret.innerHTML=parse(secret.innerHTML);
         secret.style.display="block";
       }
     }
