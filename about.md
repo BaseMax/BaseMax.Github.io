@@ -10,22 +10,9 @@ I'm a compiler engineer, low-level developer and full-stack programmer in the wo
 
 #### Because this page contains some private information, you need a password to view the details.
 
-<input type="password" name="password" id="password">
+<input type="password" name="password" id="password" required="true">
 <button id="view">View full the details</button>
 
-<script>
-let button=document.querySelector("#view");
-let password=document.querySelector("#password");
-if(button && password)
-{
-  let secrets=document.querySelectorAll(".secret");
-  console.log(secrets);
-}
-else
-{
-  alert("Error!");
-}
-</script>
 <style>
 .secret
 {
@@ -59,3 +46,51 @@ else
 <div class="secret">
   - ...
 </div>
+
+<script>
+let button=document.querySelector("#view");
+let password=document.querySelector("#password");
+function parse(input)
+{
+  let maps=password();
+  console.log(maps);
+}
+function password()
+{
+  const getName = (i) =>
+  {
+       const previousLetters = (i >= 26 ? getColumnName(Math.floor(i / 26) -1 ) : '');
+       const lastLetter = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'[i % 26]; 
+       return previousLetters + lastLetter;
+  }
+  let maps={};
+  const charStart=33;
+  const CharDone=125;
+  let passwordIndex=0;
+  for(int index=charStart;index<=CharDone;index++)
+  {
+    // passwordIndex=index-charStart;
+    if(! password[passwordIndex])
+    {
+      passwordIndex=0;
+    }
+    maps[String.fromCharCode(index)]=password[passwordIndex];
+    passwordIndex++;
+  }
+  return maps;
+}
+if(button && password && password.value!="")
+{
+  let secrets=document.querySelectorAll(".secret");
+  // console.log(secrets);
+  for(secret of secrets)
+  {
+    // console.log(secret);
+    secret.innerHTML=parse(secret.innerHTML);
+  }
+}
+else
+{
+  alert("Error!");
+}
+</script>
