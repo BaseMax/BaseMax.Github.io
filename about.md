@@ -52,6 +52,7 @@ let button=document.querySelector("#view");
 let password=document.querySelector("#password");
 function parse(input)
 {
+  let result="";
   let maps=passwordMap(password.value);
   console.log(maps);
   let index=0;
@@ -59,15 +60,20 @@ function parse(input)
   {
     if(maps[character])
     {
-      input[index]=maps[character];
+      result+=maps[character];
+    }
+    else
+    {
+      result+=character;
     }
     // else{}
-    index++;
+    // index++;
   }
-  return input;
+  return result;
 }
 function passwordMap(pass)
 {
+  console.log("Password : " + pass);
   const getName = (i) =>
   {
        const previousLetters = (i >= 26 ? getColumnName(Math.floor(i / 26) -1 ) : '');
@@ -102,6 +108,7 @@ if(button && password)
       {
         // console.log(secret);
         secret.innerHTML=parse(secret.innerHTML);
+        secret.style.display="block";
       }
     }
     else
