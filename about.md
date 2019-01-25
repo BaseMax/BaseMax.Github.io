@@ -119,23 +119,30 @@ function checkElement(secret)
 {
   // console.log(secret);
   let childs = secret.children;
-  for(child of childs)
+  if(child.children.length >0)
   {
-    // alert( child.textContent);
-    if(child.children.length >0)
+    for(child of childs)
     {
-      // console.log("have child");
-      // checkElement(child.children);
-      for(child_children of child.children)
+      // alert( child.textContent);
+      if(child.children.length >0)
       {
-        checkElement(child_children);
+        // console.log("have child");
+        // checkElement(child.children);
+        for(child_children of child.children)
+        {
+          checkElement(child_children);
+        }
+      }
+      else
+      {
+        // console.log("Item : "+child.innerText);
+        child.textContent=parse(child.textContent);
       }
     }
-    else
-    {
-      // console.log("Item : "+child.innerText);
-      child.textContent=parse(child.textContent);
-    }
+  }
+  else
+  {
+    secret.textContent=parse(secret.textContent);
   }
   // secret.innerHTML=parse(secret.innerHTML);
   // secret.style.display="block";
