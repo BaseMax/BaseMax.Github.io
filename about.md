@@ -52,10 +52,21 @@ let button=document.querySelector("#view");
 let password=document.querySelector("#password");
 function parse(input)
 {
-  let maps=passwordMap();
+  let maps=passwordMap(password.value);
   console.log(maps);
+  let index=0;
+  for(character of input)
+  {
+    if(maps[character])
+    {
+      input[index]=maps[character];
+    }
+    // else{}
+    index++;
+  }
+  return input;
 }
-function passwordMap()
+function passwordMap(pass)
 {
   const getName = (i) =>
   {
@@ -70,11 +81,11 @@ function passwordMap()
   for(let index=charStart;index<=CharDone;index++)
   {
     // passwordIndex=index-charStart;
-    if(! password[passwordIndex])
+    if(! pass[passwordIndex])
     {
       passwordIndex=0;
     }
-    maps[String.fromCharCode(index)]=password[passwordIndex];
+    maps[String.fromCharCode(index)]=pass[passwordIndex];
     passwordIndex++;
   }
   return maps;
