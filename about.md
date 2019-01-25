@@ -23,27 +23,34 @@ I'm a compiler engineer, low-level developer and full-stack programmer in the wo
 ## Skills
 
 <div class="secret">
+<ul>
   <li>Compiler</li>
   <li>Assembly</li>
   <li>C</li>
   <li>...</li>
+</ul>
 </div>
  
 ## Projects
 
 <div class="secret">
+<ul>
   <li>...</li>
+</ul>
 </div>
 
 ## Works
 
 <div class="secret">
+<ul>
   <li>...</li>
+</ul>
 </div>
 
 ## Education
 
 <div class="secret">
+<ul>
   <li>...</li>
 </div>
 
@@ -123,8 +130,8 @@ if(button && password)
         let childs = document.body.children;
         for(child of childs)
         {
-          // alert( child[i].textContent);
-          child[i].textContent=parse(child[i].textContent);
+          // alert( child.textContent);
+          child.textContent=parse(child.textContent);
         }
         // secret.innerHTML=parse(secret.innerHTML);
         secret.style.display="block";
