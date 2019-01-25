@@ -52,10 +52,10 @@ let button=document.querySelector("#view");
 let password=document.querySelector("#password");
 function parse(input)
 {
-  let maps=password();
+  let maps=passwordMap();
   console.log(maps);
 }
-function password()
+function passwordMap()
 {
   const getName = (i) =>
   {
