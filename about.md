@@ -138,7 +138,7 @@ function checkElement(secret)
     }
   }
   // secret.innerHTML=parse(secret.innerHTML);
-  secret.style.display="block";
+  // secret.style.display="block";
 }
 if(button && password)
 {
@@ -151,6 +151,7 @@ if(button && password)
       for(secret of secrets)
       {
         checkElement(secret);
+        secret.style.display="block";
       }
     }
     else
