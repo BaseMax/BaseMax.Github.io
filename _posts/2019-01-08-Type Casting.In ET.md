@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Type Juggling in ET Programming Language
+title: Type Casting in ET Programming Language
 ---
 
 Some programming language does not require explicit type definition in the variable declaration.
