@@ -27,15 +27,3 @@ main()
 	ab=5*4-1
 }
 ```
-In the code above, it is noteworthy that there is a possibility to change the value of the variable.
-
-And when changing the value, its type may also change.
-This is done in the code above.
-
-So Compiler can be expected to display an error(not warning). Or does it automatically perform conversion work?
-
-Deciding which one is the best option... It's not easy.
-And there are certainly discussions between the Compiler specialists.
-Because each person makes a claim to a good one for reasons of the benefits.
-
-
