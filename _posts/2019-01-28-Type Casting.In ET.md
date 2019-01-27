@@ -14,10 +14,12 @@ a variable's type is determined by the context in which the variable is used. (a
 main()
 {
 	age=5+1+2+4*2
-	ab=5*4+4
-	ab=4+100-5*2
-	an=4+5
-	413
+	
+	ab=5*4+4*4.2
+	ab=4+100-5*2*4.6
+	
+	an=4.6
+
 	ab=5*(4-1)
 	ab=5*4-1
 }
