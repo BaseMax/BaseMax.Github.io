@@ -5,9 +5,10 @@ title: Will I go to the Google Co?
 
 
 But this decision is not so simple.
-This offer has been made by Google.
-
 If I go ... What are the current projects?
+
+
+This offer has been made by Google.
 
 ## Does development of ET language stop?
 
