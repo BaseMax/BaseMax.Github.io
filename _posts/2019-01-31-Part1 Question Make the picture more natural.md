@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Questions about making the picture more natural.
+title: Part1 Questions about making the picture more natural.
 ---
 
 Although this is a simple question and easy...
