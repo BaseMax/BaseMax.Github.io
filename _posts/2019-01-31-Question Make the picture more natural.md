@@ -108,11 +108,34 @@ Write code to fix the puzzle-copper image. The red values in the image are rando
 
 The real image is in the blue and green values, which have been divide by 10.
 
+
+![Stop](https://basemax.github.io/assets/image/paris.jpg)
+
+
+### Final Answer
+
+![Final Answer](https://basemax.github.io/assets/image/paris2.jpg)
+
+
+
 # Question 6
 
 Write code to fix the puzzle-iron image. The red and green values in the image are random noise, so they should be set to 0.
 
 The real image is in the blue values, which have been divide by 10. The "solution" image will look blue, since it is exclusively in the blue values, so don't worry about that. We'll see a way to fix that blueness in a later section.
+
+
+
+![Stop](https://basemax.github.io/assets/image/image.jpg)
+
+
+### Final Answer
+
+![Final Answer](https://basemax.github.io/assets/image/image2.jpg)
+
+
+
+-------------
 
 
 If you tried and thought ...
