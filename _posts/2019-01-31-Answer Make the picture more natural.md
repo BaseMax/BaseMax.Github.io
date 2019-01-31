@@ -3,19 +3,15 @@ layout: post
 title: Answer about making the picture more natural.
 ---
 
-Although this is a simple question and easy...
-But it can be interesting for many people.
-
-I saw this question at Stanford University.
-And thanks to the professor.
-
-
-
-
 Please not see the answer before think.
+
 You should try and thinking to solve the questions.
 
 [View Questions](https://basemax.github.io/2019/01/31/Question-Make-the-picture-more-natural.html)
+
+
+Although this is a simple question and easy...
+But it can be interesting for many people.
 
 
 # Question 1
