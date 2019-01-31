@@ -77,5 +77,29 @@ for (pixel: image)
 # Question 5
 
 
+![Final Answer](https://basemax.github.io/assets/image/paris2.jpg)
+
+```
+for (pixel: image)
+{
+   pixel.setRed(0);
+   pixel.setGreen(0);
+   pixel.setBlue(pixel.getBlue()*10);
+}
+```
+
+
 # Question 6
+
+
+![Final Answer](https://basemax.github.io/assets/image/image2.jpg)
+
+```
+for (pixel: image)
+{
+   pixel.setRed(0);
+   pixel.setGreen(pixel.getGreen()*10);
+   pixel.setBlue(pixel.getBlue()*10);
+}
+```
 
