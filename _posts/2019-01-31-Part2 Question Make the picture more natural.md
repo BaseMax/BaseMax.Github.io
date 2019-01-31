@@ -12,22 +12,6 @@ And thanks to the professor.
 
 
 # Question 1
-Write code to change the banana.jpg image to be grayscale. Reminder: here is the line used in the loop to compute the average of the red/green/blue values and store that value in a variable named "avg".
-
-```
-avg = (pixel.getRed() + pixel.getGreen() + pixel.getBlue())/3;
-```
-
-
-![Make the picture more natural](https://basemax.github.io/assets/image/banana.jpg)
-
-
-### Final Answer
-
-![Final Answer](https://basemax.github.io/assets/image/banana2.jpg)
-
-
-# Question 2
 
 The image below, golden-gate-red.jpg, shows the golden gate bridge, but all of the data is in the red values. 
 golden gate bridge, shown in red
@@ -41,6 +25,19 @@ Write code that for each pixel copies the red value over to be the green and blu
 ### Final Answer
 
 ![Final Answer](https://basemax.github.io/assets/image/city4.jpg)
+
+
+
+# Question 2
+
+
+![Make the picture more natural](https://basemax.github.io/assets/image/image3.jpg)
+
+
+### Final Answer
+
+![Final Answer](https://basemax.github.io/assets/image/image4.jpg)
+
 
 
 
@@ -74,13 +71,20 @@ write code to change the flowers.jpg image to grayscale, using the "average" str
 
 # Question 4
 
+Write code to change the banana.jpg image to be grayscale. Reminder: here is the line used in the loop to compute the average of the red/green/blue values and store that value in a variable named "avg".
 
-![Make the picture more natural](https://basemax.github.io/assets/image/image3.jpg)
+```
+avg = (pixel.getRed() + pixel.getGreen() + pixel.getBlue())/3;
+```
+
+
+![Make the picture more natural](https://basemax.github.io/assets/image/banana.jpg)
 
 
 ### Final Answer
 
-![Final Answer](https://basemax.github.io/assets/image/image4.jpg)
+![Final Answer](https://basemax.github.io/assets/image/banana2.jpg)
+
 
 -------------
 
