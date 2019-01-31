@@ -134,6 +134,9 @@ The real image is in the blue values, which have been divide by 10. The "solutio
 ![Final Answer](https://basemax.github.io/assets/image/image2.jpg)
 
 
+Click [here](https://basemax.github.io/2019/01/31/Part2-Question-Make-the-picture-more-natural.html) to view further queries.
+
+
 
 -------------
 
