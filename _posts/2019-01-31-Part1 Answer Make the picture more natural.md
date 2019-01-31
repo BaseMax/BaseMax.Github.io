@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Answer about making the picture more natural.
+title: Part1 Answer about making the picture more natural.
 ---
 
 Please not see the answer before think.
@@ -98,4 +98,5 @@ for (pixel: image)
    pixel.setBlue(pixel.getBlue()*10);
 }
 ```
+
 
