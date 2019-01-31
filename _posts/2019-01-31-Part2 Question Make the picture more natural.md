@@ -3,7 +3,6 @@ layout: post
 title: Part2 Questions about making the picture more natural.
 ---
 
-Click [here](https://basemax.github.io/2019/01/31/Part1-Question-Make-the-picture-more-natural.html) to see the Part1 of the questions.
 
 Although this is a simple question and easy...
 But it can be interesting for many people.
