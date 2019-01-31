@@ -15,23 +15,25 @@ But it can be interesting for many people.
 
 # Question 1
 
-![Final Answer](https://basemax.github.io/assets/image/banana2.jpg)
-
-```
-avg = (pixel.getRed() + pixel.getGreen() + pixel.getBlue())/3; 
-pixel.setRed(avg);
-pixel.setGreen(avg);
-pixel.setBlue(avg);
-```
-
-# Question 2
-
 ![Final Answer](https://basemax.github.io/assets/image/city4.jpg)
 
 ```
 pixel.setGreen(pixel.getRed());
 pixel.setBlue(pixel.getRed());
 ```
+
+
+# Question 2
+
+
+![Final Answer](https://basemax.github.io/assets/image/image4.jpg)
+
+
+```
+pixel.setGreen(pixel.getRed());
+pixel.setBlue(pixel.getRed());
+```
+
 
 # Question 3
 
@@ -47,11 +49,12 @@ pixel.setBlue(avg);
 
 # Question 4
 
-![Final Answer](https://basemax.github.io/assets/image/image4.jpg)
 
+![Final Answer](https://basemax.github.io/assets/image/banana2.jpg)
 
 ```
-pixel.setGreen(pixel.getRed());
-pixel.setBlue(pixel.getRed());
+avg = (pixel.getRed() + pixel.getGreen() + pixel.getBlue())/3; 
+pixel.setRed(avg);
+pixel.setGreen(avg);
+pixel.setBlue(avg);
 ```
-
