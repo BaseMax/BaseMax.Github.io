@@ -58,15 +58,6 @@ And how it looks.
 
 ![Final Answer](https://basemax.github.io/assets/image/flower4.jpg)
 
-```
-for (pixel: image)
-{
-   pixel.setRed(pixel.getRed()*10);
-   pixel.setGreen(pixel.getGreen()*5);
-   pixel.setBlue(pixel.getBlue()*20);
-}
-```
-
 
 # Question 2
 
