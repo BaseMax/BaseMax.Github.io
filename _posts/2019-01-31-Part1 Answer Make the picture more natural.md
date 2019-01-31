@@ -7,7 +7,7 @@ Please not see the answer before think.
 
 You should try and thinking to solve the questions.
 
-[View Questions](https://basemax.github.io/2019/01/31/Question-Make-the-picture-more-natural.html)
+[View Questions](https://basemax.github.io/2019/01/31/Part1-Question-Make-the-picture-more-natural.html)
 
 
 Although this is a simple question and easy...
