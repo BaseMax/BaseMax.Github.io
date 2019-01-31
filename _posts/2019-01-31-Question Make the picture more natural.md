@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A question about making the picture more natural.
+title: Questions about making the picture more natural.
 ---
 
 Although this is a simple question and easy...
@@ -80,14 +80,7 @@ Write code to fix the oranges image which should show a box of oranges. The box 
 
 ![Final Answer](https://basemax.github.io/assets/image/orange2.jpg)
 
-```
-for (pixel: image)
-{
-   pixel.setRed(pixel.getRed() * 20);
-   pixel.setGreen(pixel.getGreen() * 5);
-   pixel.setBlue(pixel.getBlue() * 10);
-}
-```
+
 
 # Question 3
 
@@ -105,15 +98,6 @@ Write code to recover the real image.
 
 ![Final Answer](https://basemax.github.io/assets/image/city2.jpg)
 
-```
-for (pixel: image)
-{
-   pixel.setGreen(0);
-   pixel.setBlue(0);
-   pixel.setRed(pixel.getRed() * 10);
-}
-```
-
 
 # Question 4
 
@@ -125,16 +109,6 @@ Write code to fix the stop-sky image which should show a red stop sign front wit
 ### Final Answer
 
 ![Final Answer](https://basemax.github.io/assets/image/stop2.jpg)
-
-```
-for (pixel: image)
-{
-   pixel.setRed(pixel.getRed() * 20);
-   pixel.setGreen(pixel.getGreen() * 10);
-   pixel.setBlue(pixel.getBlue() * 5);
-}
-```
-
 
 
 # Question 5
@@ -148,3 +122,7 @@ The real image is in the blue and green values, which have been divide by 10.
 Write code to fix the puzzle-iron image. The red and green values in the image are random noise, so they should be set to 0.
 
 The real image is in the blue values, which have been divide by 10. The "solution" image will look blue, since it is exclusively in the blue values, so don't worry about that. We'll see a way to fix that blueness in a later section.
+
+
+If you tried and thought ...
+Click [here](https://basemax.github.io/2019/01/31/Answer-Make-the-picture-more-natural.html) to check the final answer.
