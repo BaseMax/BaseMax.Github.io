@@ -1,3 +1,7 @@
+---
+layout: post
+title: Part2 Answer about making the picture more natural.
+---
 
 Please not see the answer before think.
 
