@@ -5,6 +5,15 @@ title: A few examples of the proposed code in ET programming language
 
 See the code below:
 
+
+```
+int main()
+{
+	0
+}
+```
+
+
 ```
 int main()
 {
@@ -25,6 +34,14 @@ int main()
 {
 	__ "Hello, World"
 	return 1
+}
+```
+
+```
+int main()
+{
+	__ "Hello, World"
+	1
 }
 ```
 
