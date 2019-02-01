@@ -8,23 +8,23 @@ See the code below:
 ```
 int main()
 {
-  return 0
+	return 0
 }
 ```
 
 ```
 int main()
 {
-  _ "Hello"
-  return 1
+	_ "Hello"
+	return 1
 }
 ```
 
 ```
 int main()
 {
-  __ "Hello, World"
-  return 1
+	__ "Hello, World"
+	return 1
 }
 ```
 
