@@ -1,5 +1,9 @@
-#### A few examples of the proposed code in ET programming language
+---
+layout: post
+title: A few examples of the proposed code in ET programming language
+---
 
+See the code below:
 
 ```
 int main()
