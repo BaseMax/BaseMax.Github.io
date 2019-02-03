@@ -3,7 +3,6 @@ layout: post
 title: Part3 Questions about making the picture more natural.
 ---
 
-
 Although this is a simple question and easy...
 But it can be interesting for many people.
 
@@ -30,7 +29,6 @@ Goal: change the red sign to be blue
 
 
 # Question 3
-
 
 Suppose you are visiting Stanford and you park your car here, and get a parking ticket. Philosophically, they say that you are better off taking in events as they have actually happened. Nonetheless, here we'll try to fix history in code. 
 
