@@ -17,7 +17,6 @@ Goal: change the red sign to be blue
 ### Final Answer
 
 
-
 # Question 2
 
 
@@ -31,19 +30,13 @@ Suppose you are visiting Stanford and you park your car here, and get a parking 
 Challenge: write code to detect the red curb, (a) change it to medium gray red=120 green=120 blue=120. (b) change just the red curb to be grayscale, which will look more realistic. Rather than changing the whole image to grayscale, we change just the red areas. Recall that the algorithm to change grayscale is to set red/green/blue values all to be the average value.
 
 
-
-
 ### Final Answer
-
 
 
 # Question 4
 
 
-
-
 ### Final Answer
-
 
 
 -------------
