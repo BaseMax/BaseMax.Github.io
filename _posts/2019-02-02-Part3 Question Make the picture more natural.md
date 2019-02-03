@@ -21,11 +21,7 @@ Goal: change the red sign to be blue
 # Question 2
 
 
-
 ### Final Answer
-
-
-
 
 
 # Question 3
