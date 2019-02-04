@@ -86,6 +86,44 @@ avg = (pixel.getRed() + pixel.getGreen() + pixel.getBlue())/3;
 ![Final Answer](https://basemax.github.io/assets/image/banana2.jpg)
 
 
+
+# Question 5
+
+we have the baby.jpg image.
+
+make it appear that the green parts of her little chair are sprouting leaves.
+
+![Make the picture more natural](https://basemax.github.io/assets/image/baby.jpg)
+
+### Final Answer
+
+
+![Final Answer](https://basemax.github.io/assets/image/baby2.jpg)
+
+
+# Question 6
+
+Here is our monkey movie star:
+
+
+![Make the picture more natural](https://basemax.github.io/assets/image/animal.jpg)
+
+
+Here is our background, the famous Apollo 8 photo of the earth shown rising above the moon horizon.
+
+![Make the picture more natural](https://basemax.github.io/assets/image/animal2.jpg)
+
+
+
+Real technique
+1. Two images: image, back
+2. Loop over image, detect color area
+3. Color area: copy over x,y pixel from back to image
+
+### Final Answer
+
+![Make the picture more natural](https://basemax.github.io/assets/image/animal3.jpg)
+
 -------------
 
 
