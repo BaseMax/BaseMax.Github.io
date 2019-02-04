@@ -122,7 +122,65 @@ Real technique
 
 ### Final Answer
 
-![Make the picture more natural](https://basemax.github.io/assets/image/animal3.jpg)
+![Final Answer](https://basemax.github.io/assets/image/animal3.jpg)
+
+
+# Question 6
+
+
+![Make the picture more natural](https://basemax.github.io/assets/image/university4.jpg)
+
+Suppose you are visiting Stanford and you park your car here, and get a parking ticket. Philosophically, they say that you are better off taking in events as they have actually happened. Nonetheless, here we'll try to fix history in code. 
+
+Challenge: write code to detect the red curb, (a) change it to medium gray red=120 green=120 blue=120. (b) change just the red curb to be grayscale, which will look more realistic. Rather than changing the whole image to grayscale, we change just the red areas. Recall that the algorithm to change grayscale is to set red/green/blue values all to be the average value.
+
+
+### Final Answer
+
+![Final Answer](https://basemax.github.io/assets/image/university5.jpg)
+
+
+
+# Question 7
+
+
+![Make the picture more natural](https://basemax.github.io/assets/image/university4.jpg)
+
+Suppose you are visiting Stanford and you park your car here, and get a parking ticket. Philosophically, they say that you are better off taking in events as they have actually happened. Nonetheless, here we'll try to fix history in code. 
+
+Challenge: write code to detect the red curb, (a) change it to medium gray red=120 green=120 blue=120. (b) change just the red curb to be grayscale, which will look more realistic. Rather than changing the whole image to grayscale, we change just the red areas. Recall that the algorithm to change grayscale is to set red/green/blue values all to be the average value.
+
+
+Tune the * 1.5 to detect the red areas
+Setting to solid gray (120, 120, 120) looks a little crude
+Note that we put gray on the red plants to the right
+Our strategy chooses exclusively on pixel color, so necessarily get the red plants too
+(b) Rather than (120, 120, 120), change the red pixels to grayscale
+This looks much better, as it reflects the dark/light of the real curb
+Just draining out the red
+
+
+### Final Answer
+
+![Final Answer](https://basemax.github.io/assets/image/university6.jpg)
+
+
+
+# Question 8
+
+
+![Make the picture more natural](https://basemax.github.io/assets/image/flower7.jpg)
+
+Write code that picks out the pixels of the green leaves in the image (using the > avg * factor technique, as in lecture). For each green pixel identified, set its green value to 0. The result is that the green leaves are changed to a sort of weird purple color, since setting green to 0, we just have red and blue contributing.
+
+
+
+
+### Final Answer
+
+![Final Answer](https://basemax.github.io/assets/image/flower8.jpg)
+
+
 
 -------------
 
