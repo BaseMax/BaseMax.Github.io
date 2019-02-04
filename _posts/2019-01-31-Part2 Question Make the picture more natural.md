@@ -182,6 +182,73 @@ Write code that picks out the pixels of the green leaves in the image (using the
 
 
 
+
+
+# Question 8
+
+
+![Make the picture more natural](https://basemax.github.io/assets/image/fish.jpg)
+
+Write bluescreen code to place this fish in front of the yosemite.jpg background. The fish has bits of blue on it, but that's ok since we're using a green background in this case. Adjust the code so that all of the green towel below the fish disappears. Little flecks of white will appear in the blue middle section of the fish; we're stuck with those with our current technique.
+
+
+
+### Final Answer
+
+
+![Final Answer](https://basemax.github.io/assets/image/fish3.jpg)
+
+
+
+
+
+# Question 9
+
+
+
+For the next problem, we'll accomplish a sort of artistic effect, working with the tree.jpg image:
+
+
+![Make the picture more natural](https://basemax.github.io/assets/image/tree.jpg)
+
+![Make the picture more natural](https://basemax.github.io/assets/image/tree2.jpg)
+
+Write bluescreen code to modify the tree.jpg image, replacing the trunk and some of the branches of the tree with pixels from pebbles.jpg. The result is a sort of fanciful looking stone-tree image. Adjust the code so the lower trunk is changed to pebbles, but not too much of the greenery next to the trunk.
+
+
+### Final Answer
+
+
+![Final Answer](https://basemax.github.io/assets/image/tree3.jpg)
+
+
+
+
+# Question 10
+
+The next problem, Fish Dreams of Paris, uses two images. paris.jpg:
+
+![Make the picture more natural](https://basemax.github.io/assets/image/paris.jpg)
+
+And striped-fish-blue.jpg:
+
+![Make the picture more natural](https://basemax.github.io/assets/image/paris2.jpg)
+
+
+
+The "Fish Dreams of Paris" problem.
+
+The striped fish is facing right in front of a blue background. Parts of the fish are blue also — the eye and the vertical stripe in the middle. For this problem, we'll let the background image replace those two blue areas as well.
+
+Write bluescreen code to place striped-fish-blue.jpg in front of paris.jpg. In particular, adjust the code so that the blue background, the blue middle stripe, and blue eye of the fish all show the paris.jpg pixels. Adjust the code so the blue towel below the fish is almost completely replaced.
+
+
+### Final Answer
+
+
+Not Defined!
+
+
 -------------
 
 
