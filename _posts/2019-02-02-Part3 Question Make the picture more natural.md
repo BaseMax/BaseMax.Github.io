@@ -71,24 +71,7 @@ make it appear that the green parts of her little chair are sprouting leaves.
 
 
 
-
 # Question 5
-
-we have the baby.jpg image.
-
-make it appear that the green parts of her little chair are sprouting leaves.
-
-![Make the picture more natural](https://basemax.github.io/assets/image/baby.jpg)
-
-### Final Answer
-
-
-![Final Answer](https://basemax.github.io/assets/image/baby2.jpg)
-
-
-
-
-# Question 6
 
 
 ![Make the picture more natural](https://basemax.github.io/assets/image/university4.jpg)
@@ -110,7 +93,7 @@ Conclusions:
 
 
 
-# Question 7
+# Question 6
 
 Here is our monkey movie star:
 
@@ -134,7 +117,7 @@ Real technique
 ![Final Answer](https://basemax.github.io/assets/image/animal3.jpg)
 
 
-# Question 8
+# Question 7
 
 
 ![Make the picture more natural](https://basemax.github.io/assets/image/university4.jpg)
@@ -150,7 +133,7 @@ Challenge: write code to detect the red curb, (a) change it to medium gray red=1
 
 
 
-# Question 9
+# Question 8
 
 
 ![Make the picture more natural](https://basemax.github.io/assets/image/university4.jpg)
@@ -175,7 +158,7 @@ Just draining out the red
 
 
 
-# Question 10
+# Question 9
 
 
 ![Make the picture more natural](https://basemax.github.io/assets/image/flower7.jpg)
@@ -193,7 +176,7 @@ Write code that picks out the pixels of the green leaves in the image (using the
 
 
 
-# Question 11
+# Question 10
 
 
 ![Make the picture more natural](https://basemax.github.io/assets/image/fish.jpg)
@@ -211,7 +194,7 @@ Write bluescreen code to place this fish in front of the yosemite.jpg background
 
 
 
-# Question 12
+# Question 11
 
 
 
@@ -232,15 +215,15 @@ Write bluescreen code to modify the tree.jpg image, replacing the trunk and some
 
 
 
-# Question 13
+# Question 12
 
 The next problem, Fish Dreams of Paris, uses two images. paris.jpg:
 
-![Make the picture more natural](https://basemax.github.io/assets/image/paris.jpg)
+![Make the picture more natural](https://basemax.github.io/assets/image/paris3.jpg)
 
 And striped-fish-blue.jpg:
 
-![Make the picture more natural](https://basemax.github.io/assets/image/paris2.jpg)
+![Make the picture more natural](https://basemax.github.io/assets/image/fish.jpg)
 
 
 
