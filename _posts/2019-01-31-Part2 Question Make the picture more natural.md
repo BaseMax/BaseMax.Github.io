@@ -88,6 +88,8 @@ avg = (pixel.getRed() + pixel.getGreen() + pixel.getBlue())/3;
 
 
 
+Click [here](https://basemax.github.io/2019/02/02/Part3-Question-Make-the-picture-more-natural.html) to view further queries.
+
 -------------
 
 
