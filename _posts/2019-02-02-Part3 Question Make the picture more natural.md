@@ -244,4 +244,5 @@ Not Defined!
 
 If you tried and thought ...
 
-Click [here](https://basemax.github.io/2019/02/02/Part3-Answer-Make-the-picture-more-natural.html) to check the final answer.
+Click [here](https://basemax.github.io/2019/02/04/Part3-Answer-Make-the-picture-more-natural.html) to check the final answer.
+
