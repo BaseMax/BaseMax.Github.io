@@ -1,4 +1,3 @@
-<!-- Update your html tag to include the itemscope and itemtype attributes. -->
 <html itemscope itemtype="http://schema.org/Article">
 
 {% if page.title %}
@@ -6,7 +5,6 @@
 {% else %}
  {% assign page_title = site.title | escape %}
 {% endif %}
-
 
 {% if page.author.name %}
   {% assign page_author = page.author.name | default: nil | escape %}
