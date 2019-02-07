@@ -31,3 +31,10 @@ I spoke with another professor last night about finding the new prime number ...
 And he did not behave well.
 
 My initial question was: Have you ever made progress and helped others?
+
+Because I wrote an article too.
+He did even not read the text.
+In a few seconds, he looked at the sheets
+And said well.
+
+At least some minutes he should be checked on the sheets.
