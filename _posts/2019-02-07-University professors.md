@@ -6,6 +6,11 @@ title: University professors
 
 In any case, this can be generalized to humans.
 
+Of course, some of them are scholars and have a lot of good activities.
+But beware.
+Do not consult and speak with any person.
+
+
 Humans are different
 Some of them work just for their position.
 And some to help and progress others around.
