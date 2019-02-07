@@ -41,3 +41,13 @@ At least some minutes he should be checked on the sheets.
 
 Certainly, if he was in this case ... his name was in the first names of the project.
 He does not know what opportunity and suggestion he lost.
+
+
+
+Of the 200 conference papers and ISI that he has published.
+Has able to help the people of his area?
+Has he contributed to the interest of his students?
+
+No matter.
+Whatever he is thinking of himself.
+
