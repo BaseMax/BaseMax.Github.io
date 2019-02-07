@@ -38,3 +38,6 @@ In a few seconds, he looked at the sheets
 And said well.
 
 At least some minutes he should be checked on the sheets.
+
+Certainly, if he was in this case ... his name was in the first names of the project.
+He does not know what opportunity and suggestion he lost.
