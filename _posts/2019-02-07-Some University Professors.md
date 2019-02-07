@@ -6,17 +6,22 @@ title: Some University professors
 
 In any case, this can be generalized to humans.
 
+
+### Consult and Speak
+
 Of course, some of them are scholars and have a lot of good activities.
+
 But beware.
+
 Do not consult and speak with any person.
 
+### Humans
 
 Humans are different
-Some of them work just for their position.
-And some to help and progress others around.
 
-There are also other categories that appear in both types,
-but prefer their positions in sensitive situations.
+- Some of them work just for their position.
+  - And some to help and progress others around.
+  - There are also other categories that appear in both types, but prefer their positions in sensitive situations.
 
 I've heard this recently from a professor.
 A person has managed and engineered more than 200 valuable buildings.
@@ -30,6 +35,7 @@ It's so important.
 While talking to a professor
 Will he really want to hear and help you?
 
+### Prime Number
 
 I spoke with another professor last night about finding the new prime number ... he did not show much interest.
 
@@ -60,4 +66,9 @@ Whatever he is thinking of himself.
 But it loses more than anything else and loses opportunities.
 
 
-To the health of the professors and people who really help humanity.
+
+----------
+
+
+
+#### To the health of the professors and people who really help humanity.
