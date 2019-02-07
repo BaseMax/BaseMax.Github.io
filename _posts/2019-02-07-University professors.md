@@ -51,3 +51,8 @@ Has he contributed to the interest of his students?
 No matter.
 Whatever he is thinking of himself.
 
+
+But it loses more than anything else and loses opportunities.
+
+
+To the health of the professors and people who really help humanity.
