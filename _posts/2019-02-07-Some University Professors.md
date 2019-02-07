@@ -19,7 +19,7 @@ Do not consult and speak with any person.
 
 Humans are different
 
-- Some of them work just for their position.
+  - Some of them work just for their position.
   - And some to help and progress others around.
   - There are also other categories that appear in both types, but prefer their positions in sensitive situations.
 
