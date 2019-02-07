@@ -25,3 +25,9 @@ It's so important.
 While talking to a professor
 Will he really want to hear and help you?
 
+
+I spoke with another professor last night about finding the new prime number ... he did not show much interest.
+
+And he did not behave well.
+
+My initial question was: Have you ever made progress and helped others?
