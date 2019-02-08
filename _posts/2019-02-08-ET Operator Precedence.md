@@ -16,7 +16,7 @@ Operators are listed top to bottom, in descending precedence.
 | 3 | *<br>/<br>% | Multiplication<br>Division<br>Remainder | Left-to-right |
 | 4 | +<br>- | Addition<br>Subtraction | Left-to-right |
 | 5 | <<<br>>> | Bitwise left shift<br>Bitwise right shift | Left-to-right |
-| 6 | <<br><=<br>><br>>= | For relational operators < respectively<br>For relational operators ≤ respectively<br>For relational operators > respectively<br>For relational operators ≥ respectively | Left-to-right |
+| 6 | \<<br><=<br>><br>>= | For relational operators < respectively<br>For relational operators ≤ respectively<br>For relational operators > respectively<br>For relational operators ≥ respectively | Left-to-right |
 | 7 | ==<br>!= | For relational = <br>For relational ≠ | Left-to-right |
 | 8 | && | Logical AND | Left-to-right |
 | 9 | \|\| | Logical OR | Left-to-right |
