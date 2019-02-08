@@ -15,5 +15,6 @@ Operators are listed top to bottom, in descending precedence.
 | 2 | +<br>-<br>!<br>~<br>& | Unary plus<br>Unary minus<br>Logical NOT<br>Bitwise NOT<br>Address-of | Right-to-left |
 | 3 | *<br>/<br>% | Multiplication<br>Division<br>Remainder | Left-to-right |
 | 4 | +<br>- | Addition<br>Subtraction | Left-to-right |
+| 5 | <<<br>>> | Bitwise left shift<br>Bitwise right shift | Left-to-right |
 
 
