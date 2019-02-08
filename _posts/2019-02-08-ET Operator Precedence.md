@@ -19,4 +19,5 @@ Operators are listed top to bottom, in descending precedence.
 | 6 | <<br><=<br>><br>>= | For relational operators < respectively<br>For relational operators ≤ respectively<br>For relational operators > respectively<br>For relational operators ≥ respectively | Left-to-right |
 | 7 | ==<br>!= | For relational = <br>For relational ≠ | Left-to-right |
 | 8 | && | Logical AND | Left-to-right |
+| 9 | \|\| | Logical OR | Left-to-right |
 
