@@ -44,3 +44,12 @@ The main goal is to help the community and progress.
 We should try to we be more usefull for all.
 
 
+## Final
+
+It seems to be doing better.
+
+Work that is more effective.
+
+Choosing this is a hard way and requires a lot of thought and advice.
+
+Perhaps it could be more effective and useful in another way.
