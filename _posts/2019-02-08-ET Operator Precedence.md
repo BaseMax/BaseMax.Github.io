@@ -21,4 +21,4 @@ Operators are listed top to bottom, in descending precedence.
 | 8 | ==<br>!= | For relational = <br>For relational ≠ | Left-to-right |
 | 9 | && | Logical AND | Left-to-right |
 | 10 | \|\| | Logical OR | Left-to-right |
-
+| 11 | ^ | | |
