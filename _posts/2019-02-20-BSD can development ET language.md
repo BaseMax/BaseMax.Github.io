@@ -3,11 +3,12 @@ layout: post
 title: Beginning of BSD can have an impact on the development of ET language?
 ---
 
-### Begin and log into BSD?
-
 Less than a month, we have a special look at Unix.
+
 It may be more important to develop in this environment.
 Or maybe not.
+
+### Begin and log into BSD?
 
 Depending on the environment and conditions.
 They are a good operating system that has a long history of development and life.
