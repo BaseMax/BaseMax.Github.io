@@ -17,7 +17,7 @@ I suppose this was for before **2015**.
 
 
 index.design :
-```
+```html
 <app>
 	<page>
 		<title>Main</title>
