@@ -10,6 +10,8 @@ When there was an Android operating system.
 A sample project using this technology:
 
 
+![App Icon](https://basemax.github.io/assets/image/icon.png)
+
 index.design :
 ```
 <app>
