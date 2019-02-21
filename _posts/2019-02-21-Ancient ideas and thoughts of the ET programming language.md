@@ -7,3 +7,77 @@ Here I want to tell from the past.
 It's about a some of years ago.
 When there was an Android operating system.
 
+A sample project using this technology:
+
+
+index.design :
+```
+<app>
+	<page>
+		<title>Main</title>
+		<style url="main.style">
+		<toolbar="true">
+		<theme="...">
+	</page>
+	<content>
+		<items layout="index_row.design" style="#listview"/>
+	</content>
+</app>
+```
+
+index.script :
+```
+<load>
+	<net_get src="http://site.com/news.json" save="data">
+	<json_decode input=$data save="input">
+	<items target="#listview">
+		<list $input = $item>
+			<item_add input=[
+							 "image":$item['image']
+							 ,
+							 "title":$item['title']
+							 ,
+							 "text":$item['text']
+							]>
+		</list>
+	</items>
+</load>
+```
+
+index_row.design :
+```
+<box style="#item">
+	<box style="#left">
+		<image style="#image">
+	</box>
+	<box style="#right">
+		<label style="#title" size="20px">
+		<label style="#text" size="16px">
+	</box>
+</box>
+```
+
+
+
+main.style :
+```
+<style>
+	<item #listview>
+		<padding="10px">
+		<background="red">
+	</item>
+</style>
+```
+
+
+setting.android :
+```
+<app>
+	<name="Name Of App">
+	<package="com.mypcname.appname">
+	<icon="icon.png">
+	<sdk="18">
+</app>
+```
+
+
