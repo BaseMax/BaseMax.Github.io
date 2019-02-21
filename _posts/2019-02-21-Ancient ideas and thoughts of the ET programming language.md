@@ -32,7 +32,7 @@ index.design :
 ```
 
 index.script :
-```
+```html
 <load>
 	<net_get src="http://site.com/news.json" save="data">
 	<json_decode input=$data save="input">
@@ -51,7 +51,7 @@ index.script :
 ```
 
 index_row.design :
-```
+```html
 <box style="#item">
 	<box style="#left">
 		<image style="#image">
@@ -66,7 +66,7 @@ index_row.design :
 
 
 main.style :
-```
+```html
 <style>
 	<item #listview>
 		<padding="10px">
@@ -77,7 +77,7 @@ main.style :
 
 
 setting.android :
-```
+```html
 <app>
 	<name="Name Of App">
 	<package="com.mypcname.appname">
