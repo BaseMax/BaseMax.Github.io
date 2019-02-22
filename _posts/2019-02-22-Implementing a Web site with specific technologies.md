@@ -8,6 +8,7 @@ A useful challenge to rebuild the book's search system.
 ### Implementing technologies to complete the project
 
 This system is basically a data base. (Big Data)
+
 Because it contains about a million information book information.
 And the goal is to be able to search the books with great speed.
 
