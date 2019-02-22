@@ -31,4 +31,6 @@ Noteworthy cases:
   - session
   - cookie
   - database, big-data, **noSQL**
- 
+  - datatime
+  - response http code, support content-type
+  
