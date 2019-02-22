@@ -31,6 +31,4 @@ Noteworthy cases:
   - session
   - cookie
   - database, big-data, **noSQL**
-  
- 
  
