@@ -63,3 +63,10 @@ Hoping for more success.
 [https://www.rust-lang.org/](https://www.rust-lang.org/)
 
 [https://github.com/rust-lang/rust](https://github.com/rust-lang/rust)
+
+
+--------
+
+Slides are designed by Google Slides on the Unix system.
+
+[Download the Slides - Soon](#Download)
