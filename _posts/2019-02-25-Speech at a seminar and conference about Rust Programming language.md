@@ -6,6 +6,8 @@ title: Speech at a seminar and conference about Rust Programming language
 On December 4, 2018, they notified me.
 And I was invited to attend a conference in the future.
 
+![Rust Programming Language](https://basemax.github.io/assets/image/RustProgrammingLanguage.jpg)
+
 They request me to talk about the programming language for members of the community and students , university.
 
 The subject was just about the **Rust Programming Language**.
