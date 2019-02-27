@@ -32,24 +32,24 @@ Different topics were raised by people.
 
 
 
-### What is Open Source?
+#### What is Open Source?
 
-### What is free software?
+#### What is free software?
 
-### Open Source Difference and Free Software?
+#### Open Source Difference and Free Software?
 
-### Licensing GPL?
+#### Licensing GPL?
 
-### What is GIT?
+#### What is GIT?
 
-### How to use GIT?
+#### How to use GIT?
 
-### Doing a GIT project?
+#### Doing a GIT project?
 
-### How using Github site?
+#### How using Github site?
 
 
-## A few pictures of the campus:
+## A few pictures of the campus
 
 ![LUG 2019-02](https://basemax.github.io/assets/image/LUG-201902-1.jpg)
 ![LUG 2019-02](https://basemax.github.io/assets/image/LUG-201902-2.jpg)
