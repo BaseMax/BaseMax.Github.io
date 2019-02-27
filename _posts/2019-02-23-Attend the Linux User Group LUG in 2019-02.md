@@ -58,6 +58,69 @@ Different topics were raised by people.
 
 --------------------------
 
+## Useful links
+
+These links have been added by me here.
+
+And in my opinion, the topics discussed were related to the following links.
+This does not mean that all the conversations are the following links.
+
+
+[https://dzone.com/articles/free-software-vs-open-source-vs-freeware-whats-the](https://dzone.com/articles/free-software-vs-open-source-vs-freeware-whats-the)
+
+[https://github.com/nasa](https://github.com/nasa)
+
+[https://en.wikipedia.org/wiki/Linux_user_group](https://en.wikipedia.org/wiki/Linux_user_group)
+
+[https://en.wikipedia.org/wiki/Ubuntu](https://en.wikipedia.org/wiki/Ubuntu)
+
+[https://en.wikipedia.org/wiki/Unity_(user_interface)](https://en.wikipedia.org/wiki/Unity_(user_interface))
+
+[https://en.wikipedia.org/wiki/Startup_company](https://en.wikipedia.org/wiki/Startup_company)
+
+[https://en.wikipedia.org/wiki/Linux_distribution](https://en.wikipedia.org/wiki/Linux_distribution)
+
+[https://en.wikipedia.org/wiki/Microsoft_Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
+
+[https://en.wikipedia.org/wiki/Apple_Inc.](https://en.wikipedia.org/wiki/Apple_Inc.)
+
+[https://en.wikipedia.org/wiki/GNU_General_Public_License](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+
+[https://en.wikipedia.org/wiki/GNU_Free_Documentation_License](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License)
+
+[https://en.wikipedia.org/wiki/Free_software](https://en.wikipedia.org/wiki/Free_software)
+
+[https://en.wikipedia.org/wiki/Free_software_license](https://en.wikipedia.org/wiki/Free_software_license)
+
+[https://en.wikipedia.org/wiki/Linux_user_group#Women_in_Free_Software_Communities](https://en.wikipedia.org/wiki/Linux_user_group#Women_in_Free_Software_Communities)
+
+[https://en.wikipedia.org/wiki/Branching_(version_control)](https://en.wikipedia.org/wiki/Branching_(version_control))
+
+[https://en.wikipedia.org/wiki/Version_control](https://en.wikipedia.org/wiki/Version_control)
+
+[https://en.wikipedia.org/wiki/Software_versioning](https://en.wikipedia.org/wiki/Software_versioning)
+
+[https://en.wikipedia.org/wiki/Linux](https://en.wikipedia.org/wiki/Linux)
+
+[https://en.wikipedia.org/wiki/Unix](https://en.wikipedia.org/wiki/Unix)
+
+[https://en.wikipedia.org/wiki/Linus_Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
+
+[https://en.wikipedia.org/wiki/GNU_General_Public_License](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+
+[https://en.wikipedia.org/wiki/Sudo](https://en.wikipedia.org/wiki/Sudo)
+
+[https://en.wikipedia.org/wiki/Wireless_tools_for_Linux](https://en.wikipedia.org/wiki/Wireless_tools_for_Linux)
+
+[https://en.wikipedia.org/wiki/Snapp_(company)](https://en.wikipedia.org/wiki/Snapp_(company))
+
+[https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%E2%80%8C%D8%B3%DB%8C](https://fa.wikipedia.org/wiki/%D8%AA%D9%BE%E2%80%8C%D8%B3%DB%8C)
+
+[https://itsfoss.com/apt-vs-apt-get-difference/](https://itsfoss.com/apt-vs-apt-get-difference/)
+
+[https://github.com/](https://github.com/)
+
+[https://en.wikipedia.org/wiki/Commit_%28version_control%29](https://en.wikipedia.org/wiki/Commit_%28version_control%29)
 
 ## A few pictures of the campus
 
