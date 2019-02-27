@@ -15,6 +15,13 @@ I'm glad I was able to attend this day and I was invited.
 
 Different topics were raised by people.
 
+# Some of the speakers
+
+- Walden
+- Randkill
+- Nabil
+
+
 ## Topics
 
 - What is LUG?
