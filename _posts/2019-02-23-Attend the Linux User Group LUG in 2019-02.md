@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attend the Linux User Group (LUG)
+title: Attend the Linux User Group (LUG) in 2019-02
 ---
 
 It was an opportunity for me to be invited and i can be there.
