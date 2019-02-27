@@ -17,6 +17,7 @@ Different topics were raised by people.
 
 ## Topics
 
+- What is LUG?
 - What is Linux?
 - What is Open Source?
 - What is free software?
@@ -26,11 +27,13 @@ Different topics were raised by people.
 - How to use GIT?
 - Doing a GIT project?
 - How using Github site?
-
+- Accesses and Sudo
+- Introducing several Linux commands and applications
 
 -----------
 
 
+### What is LUG?
 
 #### What is Open Source?
 
@@ -47,6 +50,13 @@ Different topics were raised by people.
 #### Doing a GIT project?
 
 #### How using Github site?
+
+#### Accesses and Sudo
+
+#### Introducing several Linux commands and applications
+
+
+--------------------------
 
 
 ## A few pictures of the campus
