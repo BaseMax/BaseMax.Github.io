@@ -60,6 +60,6 @@ I hope that we will have an opportunity again to work together.
 Hoping for more success.
 
 
-https://www.rust-lang.org/
+[https://www.rust-lang.org/](https://www.rust-lang.org/)
 
-https://github.com/rust-lang/rust
+[https://github.com/rust-lang/rust](https://github.com/rust-lang/rust)
