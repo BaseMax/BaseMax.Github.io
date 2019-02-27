@@ -77,6 +77,12 @@ This does not mean that all the conversations are the following links.
 
 [https://github.com/nasa](https://github.com/nasa)
 
+[https://plus.google.com/+LinusTorvalds](https://plus.google.com/+LinusTorvalds)
+
+[https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732)
+
+[https://www.wired.com/2001/05/just-for-fun-by-linus-torvalds-and-david-diamond-rebel-code-by-glyn-moody/](https://www.wired.com/2001/05/just-for-fun-by-linus-torvalds-and-david-diamond-rebel-code-by-glyn-moody/)
+
 [https://en.wikipedia.org/wiki/Linux_user_group](https://en.wikipedia.org/wiki/Linux_user_group)
 
 [https://en.wikipedia.org/wiki/Ubuntu](https://en.wikipedia.org/wiki/Ubuntu)
