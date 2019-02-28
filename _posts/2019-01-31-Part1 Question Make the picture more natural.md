@@ -143,4 +143,5 @@ Click [here](https://basemax.github.io/2019/01/31/Part2-Question-Make-the-pictur
 
 If you tried and thought ...
 
-Click [here](https://basemax.github.io/2019/01/31/Answer-Make-the-picture-more-natural.html) to check the final answer.
+Click [here](https://basemax.github.io/2019/01/31/Part1-Answer-Make-the-picture-more-natural.html) to check the final answer.
+
