@@ -140,6 +140,7 @@ This does not mean that all the conversations are the following links.
 
 ## A few pictures of the campus
 
+![LUG 2019-02](https://basemax.github.io/assets/image/LUG-201902-13.jpg)
 ![LUG 2019-02](https://basemax.github.io/assets/image/LUG-201902-1.jpg)
 ![LUG 2019-02](https://basemax.github.io/assets/image/LUG-201902-2.jpg)
 ![LUG 2019-02](https://basemax.github.io/assets/image/LUG-201902-3.jpg)
