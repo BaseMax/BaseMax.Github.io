@@ -21,7 +21,6 @@ Different topics were raised by people.
 - Randkill
 - Nabil
 
-
 ## Topics
 
 - What is LUG?
@@ -38,7 +37,6 @@ Different topics were raised by people.
 - Introducing several Linux commands and applications
 
 -----------
-
 
 ### What is LUG?
 
@@ -62,7 +60,6 @@ Different topics were raised by people.
 
 #### Introducing several Linux commands and applications
 
-
 --------------------------
 
 ## Useful links
@@ -71,7 +68,6 @@ These links have been added by me here.
 
 And in my opinion, the topics discussed were related to the following links.
 This does not mean that all the conversations are the following links.
-
 
 [https://dzone.com/articles/free-software-vs-open-source-vs-freeware-whats-the](https://dzone.com/articles/free-software-vs-open-source-vs-freeware-whats-the)
 
