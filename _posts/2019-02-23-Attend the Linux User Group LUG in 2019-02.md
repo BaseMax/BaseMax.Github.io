@@ -7,7 +7,6 @@ It was an opportunity for me to be invited and i can be there.
 
 It was a workshop for students in the field of computer science.
 
-
 ![LUG 2019-02](https://basemax.github.io/assets/image/LUG-201902-0.jpg)
 
 
