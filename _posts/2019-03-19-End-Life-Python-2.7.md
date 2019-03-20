@@ -21,3 +21,12 @@ Security fixes only:
 -    Python 3.5
 -    Python 3.4
 
+Reference :
+
+- [https://hg.python.org/peps/rev/76d43e52d978](https://hg.python.org/peps/rev/76d43e52d978)
+
+- [https://devguide.python.org/#status-of-python-branches](https://devguide.python.org/#status-of-python-branches)
+
+- [https://stackoverflow.com/questions/4836375/end-of-support-for-python-2-7](https://stackoverflow.com/questions/4836375/end-of-support-for-python-2-7)
+
+- [https://pythonclock.org/](https://pythonclock.org/)
