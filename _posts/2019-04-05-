@@ -1,2 +1,3 @@
 ---
+layout: post
 ---
