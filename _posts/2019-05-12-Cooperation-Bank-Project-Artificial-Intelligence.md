@@ -3,9 +3,9 @@ layout: post
 title: Cooperation in a Bank Project - Artificial Intelligence 
 ---
 
-### Dangerous suggestion
-
 One of the acquaintances recently offered a proposal for collaboration in a project.
+
+### Dangerous suggestion
 
 Its main topic is artificial intelligence/price analysis.
 This project is for one of the banks.
