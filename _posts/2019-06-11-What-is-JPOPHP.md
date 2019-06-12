@@ -21,6 +21,7 @@ Based on a message that I recently received, we changed the name of this library
 
 I hoping can more help to humans.
 
-https://en.wikipedia.org/wiki/JPOPHP
+[https://en.wikipedia.org/wiki/JPOPHP](https://en.wikipedia.org/wiki/JPOPHP)
 
-https://www.phpclasses.org/package/11110-PHP-Encode-and-decode-data-in-JSON-format.html
+[https://www.phpclasses.org/package/11110-PHP-Encode-and-decode-data-in-JSON-format.html](https://www.phpclasses.org/package/11110-PHP-Encode-and-decode-data-in-JSON-format.html)
+
