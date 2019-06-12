@@ -3,7 +3,7 @@ layout: post
 title: What is the JPOPHP?
 ---
 
-**LMPHP** (JSON Parser Object PHP) is a library for parsing the data in JSON format.
+**JPOPHP** (JSON Parser Object PHP) is a library for parsing the data in JSON format.
 
 Some things are interesting.
 Some things help a lot of people.
